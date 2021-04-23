@@ -655,13 +655,13 @@
   },
   "devDependencies": {
     "@types/mocha": "^2.2.41",
-    "@types/node": "^6.0.81",
+    "@types/node": "^7.10.14",
     "mocha": "^3.4.2",
     "spawn-sync": "^2.0.0",
     "ts-loader": "^8.1.0",
-    "typescript": "^2.4.1",
+    "typescript": "^3.9.7",
     "vsce": "^1.87.1",
-    "vscode": "^1.1.4",
+    "vscode": "^1.1.37",
     "webpack": "^5.30.0",
     "webpack-cli": "^4.6.0"
   },
